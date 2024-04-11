@@ -1,3 +1,5 @@
+# Exercice 02 : modélisation d'un système de suivi de la santé pour une application de remise en forme
+
 class Utilisateur:
     def __init__(self, nom, age, poids, taille, objectifs):
         self.nom = nom

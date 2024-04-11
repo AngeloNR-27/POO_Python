@@ -1,3 +1,4 @@
+# Exercice 01 : Modélisation d'un système de réservation de billets
 class Evenement:
     def __init__(self, nom, date, lieu, places_disponibles):
         self.nom = nom
